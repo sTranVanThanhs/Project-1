@@ -1,0 +1,9 @@
+G:\Work\Change IP\Project 1\Project 1\bin\Debug\Project 1.exe.config
+G:\Work\Change IP\Project 1\Project 1\bin\Debug\Project 1.exe
+G:\Work\Change IP\Project 1\Project 1\bin\Debug\Project 1.pdb
+G:\Work\Change IP\Project 1\Project 1\obj\Debug\Project 1.csprojResolveAssemblyReference.cache
+G:\Work\Change IP\Project 1\Project 1\obj\Debug\Project_1.Form1.resources
+G:\Work\Change IP\Project 1\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+G:\Work\Change IP\Project 1\Project 1\obj\Debug\Project 1.csproj.GenerateResource.Cache
+G:\Work\Change IP\Project 1\Project 1\obj\Debug\Project 1.exe
+G:\Work\Change IP\Project 1\Project 1\obj\Debug\Project 1.pdb
